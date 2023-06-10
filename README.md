@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi there 👋
+
+My name is Luis, I'm a Full Stack developer.
+
+💻 I’m currently working as a Ruby on Rails Developer at [SINDEREL](https://sinderel.com)
+
+✨ You can follow me on Twitter [@ferchoriverar](https://twitter.com/ferchoriverar)
+
+💼 Find me on [Linkedin](https://www.linkedin.com/in/joseromanhdez/)
+
 
 <!--
 **FerchoRiveraR/ferchoriverar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
