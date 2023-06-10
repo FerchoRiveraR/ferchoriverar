@@ -6,7 +6,7 @@ My name is Luis, I'm a Full Stack developer.
 
 ✨ You can follow me on Twitter [@ferchoriverar](https://twitter.com/ferchoriverar)
 
-💼 Find me on [Linkedin](https://www.linkedin.com/in/joseromanhdez/)
+💼 Find me on [Linkedin](https://www.linkedin.com/in/ferchoriverar/)
 
 
 <!--
