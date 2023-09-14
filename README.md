@@ -1,8 +1,8 @@
 Hi there 👋
 
-My name is Luis, I'm a Full Stack developer.
+My name is Luis Fernando, I'm a Ruby developer.
 
-💻 I’m currently working as a Ruby on Rails Developer at [SINDEREL](https://sinderel.com)
+💻 I’m currently working as a Ruby on Rails developer at ABA Tech
 
 ✨ You can follow me on Twitter [@ferchoriverar](https://twitter.com/ferchoriverar)
 
